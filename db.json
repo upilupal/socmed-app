@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "budi jancok",
+      "email": "budi@gmail.com",
+      "password": "Admin123",
+      "isVerify": true
+    },
+    {
+      "name": "naufal",
+      "email": "naufal@gmail.com",
+      "password": "hijklmn",
+      "isVerify": false,
+      "id": 2
+    },
+    {
+      "name": "ddffdf",
+      "email": "abc@gmail.com",
+      "password": "dfdsfdfd",
+      "isVerify": false,
+      "id": 3
+    },
+    {
+      "name": "kebol",
+      "email": "kebol@gmail.com",
+      "password": "amaterasu66",
+      "isVerify": false,
+      "id": 4
+    }
+  ]
+}
